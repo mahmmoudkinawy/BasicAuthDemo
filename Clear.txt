@@ -1,0 +1,5 @@
+bob@test.com	=>	Bob@TEst.com
+
+Email		=> 	NormalizedEmail
+bob@test.COm    => 	BOB@TEST.COM
+
